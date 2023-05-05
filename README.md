@@ -1,4 +1,4 @@
-![logo](https://github.com/Chandrashekhar569/Chandrashekhar569/blob/main/Blue%20%26%20White%20Futuristic%20Gaming%20Youtube%20Thumbnail.gif)
+![logo](https://github.com/Chandrashekhar569/Chandrashekhar569/blob/main/Blue%20%26%20White%20Futuristic%20Gaming%20Youtube%20Thumbnail%20(1).gif)
 <h1 align="center">Hi 👋, I'm Chandrashekhar Chaudhari</h1>
 <h3 align="center">Data scientist with a passion for uncovering insights through advanced analytics</h3>
 <img align = "right" alt = "code" width = "400" src = "https://cdn.dribbble.com/users/205964/screenshots/6002888/scene-1-drib.gif">
