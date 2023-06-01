@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chandrashekhar130697@gmail.com**
 
-- 📄 Know about my experiences [http://bitly.ws/DV5s](http://bitly.ws/DV5s)
+- 📄 Know about my experiences [https://t.ly/EtTe2](https://t.ly/EtTe2)
 
 - ⚡ Fun fact **I Think 😛 Pyar Ek 💔 Dhokha hai !**
 
