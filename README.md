@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Machine learning, natural language processing, and predictive analytics**
 
-- 💬 Ask me about **Python, SQL, TensorFlow**
+- 💬 Ask me about **Python, SQL, ML**
 
 - 📫 How to reach me **chandrashekhar130697@gmail.com**
 
