@@ -1,4 +1,4 @@
-![logo](https://github.com/Chandrashekhar569/Chandrashekhar569/blob/main/Black%20Blue%20Pink%20Modern%20Artificial%20Intelligence%20YouTube%20Thumbnail.jpg)
+![logo](https://github.com/Chandrashekhar569/Chandrashekhar569/blob/main/Dark%20Blue%20Neon%20The%20Future%20of%20AI%20Instagram%20Story%20(Video).jpg)
 <h1 align="center">Hi 👋, I'm Chandrashekhar Chaudhari</h1>
 <h3 align="center">Data scientist with a passion for uncovering insights through advanced analytics</h3>
 <img align = "right" alt = "code" width = "400" src = "https://cdn.dribbble.com/users/205964/screenshots/6002888/scene-1-drib.gif">
