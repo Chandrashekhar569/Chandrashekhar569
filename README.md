@@ -32,7 +32,7 @@
 ---
 
 ### 💬 Ask Me About  
-- Data Analytics: Python, SQL, Machine Learning  
+- Data Analytics: Python, SQL, Machine Learning, LLM, Gen AI
 - AI/ML Development: Predictive analytics, NLP, and recommendation systems  
 - Database Management: Streamlining workflows with AI-powered tools  
 
