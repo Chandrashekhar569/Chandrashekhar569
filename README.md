@@ -51,7 +51,7 @@ I'm a passionate **Data Analyst** and **AI Engineer** with **3+ years of experie
 
 <div align="center">
   
-  ### 🤖 [SQL Chat Boat](https://github.com/Chandrashekhar569/sql_chat_boat)
+  ### 🤖 [SQL Chat Boat](https://github.com/Chandrashekhar569/SQL-Chat-Boat)
   
   *AI-powered natural language to SQL query converter*
   
@@ -88,7 +88,7 @@ I'm a passionate **Data Analyst** and **AI Engineer** with **3+ years of experie
   
   ---
   
-  ### 📄 [PDF RAG Application](https://github.com/Chandrashekhar569/pdf-rag-application)
+  ### 📄 [PDF RAG Application](https://github.com/Chandrashekhar569/PDF_Rag_App)
   
   *Retrieval-Augmented Generation system for PDF querying*
   
