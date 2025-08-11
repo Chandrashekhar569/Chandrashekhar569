@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Data Analyst** and **AI Engineer** with **3+ years of experience** in transforming complex data into strategic business insights. My expertise spans across machine learning, data analytics, and building intelligent systems that drive operational efficiency and business growth.
+I'm a passionate **AI ML Engineer** and **Data Analyst** with **3+ years of experience** in transforming complex data into strategic business insights. My expertise spans across machine learning, data analytics, and building intelligent systems that drive operational efficiency and business growth.
 
 - 🔭 Currently working on **AI-powered applications** and **advanced analytics solutions**
 - 🌱 Exploring **Generative AI**, **LLMs**, and **Full Stack Data Science**
